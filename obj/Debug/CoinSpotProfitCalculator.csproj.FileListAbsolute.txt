@@ -1,0 +1,10 @@
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\bin\Debug\CoinSpotProfitCalculator.exe.config
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\bin\Debug\CoinSpotProfitCalculator.exe
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\bin\Debug\CoinSpotProfitCalculator.pdb
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\obj\Debug\CoinSpotProfitCalculator.csprojAssemblyReference.cache
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\obj\Debug\CoinSpotProfitCalculator.Form1.resources
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\obj\Debug\CoinSpotProfitCalculator.Properties.Resources.resources
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\obj\Debug\CoinSpotProfitCalculator.csproj.GenerateResource.cache
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\obj\Debug\CoinSpotProfitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\obj\Debug\CoinSpotProfitCalculator.exe
+C:\Users\Tharindu\Desktop\coinspot\CoinSpotProfitCalculator\obj\Debug\CoinSpotProfitCalculator.pdb
